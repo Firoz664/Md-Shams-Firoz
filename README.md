@@ -7,7 +7,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/AmitKumar-AK?label=Follow&style=social)](https://github.com/AmitKumar-AK/?tab=follow)
 [![Gmail Badge](https://img.shields.io/badge/-amit.mnath-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:shams.ece123@gmail.com)](mailto:shams.ece123@gmail.com)
 <a title="Shams's Mastodon Profile" href="https://mas.to/@amitkumar" rel="me" target="_blank"><img height="20" src="https://img.shields.io/badge/-@amitkumar-5D51E6?style=flat&labelColor1=E86733&logo=mastodon&logoColor=FFFFFF"></a>
-[![Hashnode Badge](https://img.shields.io/badge/-amitkumar-2563EB?style=flat&logo=hashnode&logoColor=FFFFFF&link=https://hashnode.com/@AmitKumarr)](https://hashnode.com/@AmitKumarr)
 
 
 ---
