@@ -26,9 +26,8 @@
 <code><a title="HTML 5" href="https://www.w3.org/html/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></a></code>
 <code><a title="JavaScript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"></a></code>
 <code><a title="Cascading Style Sheets" href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></a></code>
-<code><a title="C# language" href="https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></a></code>
-<code><a title="Microsoft .NET" href="https://dotnet.microsoft.com/" target="_blank"><img height="30" src="https://icon-library.com/images/vb-net-icon/vb-net-icon-1.jpg"></a></code>
-<code><a title="Azure" href="https://azure.microsoft.com/en-us/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="30" height="30"/> </a></code>
+<code><a title="ASW" href="https://dotnet.microsoft.com/" target="_blank"><img height="30" src="https://icon-library.com/images/vb-net-icon/vb-net-icon-1.jpg"></a></code>
+src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="30" height="30"/> </a></code>
 <code><a title="Git" href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a></code>
 <code><a title="Docker" href="https://www.docker.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"></a></code>
 <code><a title="Bootstrap" href="https://getbootstrap.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"></a></code>
@@ -39,8 +38,3 @@
 ------------------------------
 ## 💻Active Learning, 🤝Teamwork, 👨‍💻Problem Solving
 ------------------------------
-## GitHub Stats
-![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmitKumar-AK&theme=gruvbox&show_icons=true)   ![Amit's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AmitKumar-AK&layout=compact&theme=radical)
-<br/>
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAmitKumar-AK&label=Visitors&countColor=%23263759&style=plastic)
-<!-- [![Visits Badge](https://badges.pufler.dev/visits/AmitKumar-AK/AmitKumar-AK)](https://badges.pufler.dev) -->
