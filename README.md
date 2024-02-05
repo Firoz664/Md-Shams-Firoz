@@ -3,10 +3,6 @@
 - By helping others, you will learn how to help yourselves.🤝👨‍💻
 ```
 ---
- [![Linkedin Badge](https://img.shields.io/badge/-kumaramitkumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kumaramitkumar/)](https://www.linkedin.com/in/kumaramitkumar/) 
-[![GitHub followers](https://img.shields.io/github/followers/AmitKumar-AK?label=Follow&style=social)](https://github.com/AmitKumar-AK/?tab=follow)
-[![Gmail Badge](https://img.shields.io/badge/-amit.mnath-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:shams.ece123@gmail.com)](mailto:shams.ece123@gmail.com)
-<a title="Shams's Mastodon Profile" href="https://mas.to/@amitkumar" rel="me" target="_blank"><img height="20" src="https://img.shields.io/badge/-@amitkumar-5D51E6?style=flat&labelColor1=E86733&logo=mastodon&logoColor=FFFFFF"></a>
 
 
 ---
