@@ -7,15 +7,11 @@
 
 ---
 
-### I'm a Developer and working on Microsoft Tech Stack, Content Managment System and learning Cloud Technologies, and i believe in sharing the knowledge.
--------
+### I'm Shams Firoz and I'm currently working as a software developer specializing in backend development, system design, and cloud technologies such as Docker and Kubernetes. I believe in sharing knowledge and contributing to the community
 ## 🧐 About Me
 
-- 💻 I’m currently working on backend development projects on Microsoft Tech Stack and Cloud technologies.
-- ⏳ Exploring Microsoft Azure, AWS & Google Cloud
+- ⏳ Exploring  AWS & Google Cloud
 - 🚀 Always ready to collaborate for Dev Experiments
-- 🌱 I love to speak at public events and have been a speaker at many events.
-- 🏄‍ I'm sharing my knowledge with community via <a title="Amit's Blog" href="http://amitkumarmca04.blogspot.com/" target="_blank"><img height="20" src="https://img.shields.io/badge/-@amitkumarmca04-E86733?style=flat&labelColor=E86733&logo=blogger&logoColor=white&link=http://amitkumarmca04.blogspot.com/"></a> **/** <a title="Enlighten with Amit" href="https://enlightenwithamit.hashnode.dev" target="_blank"><img src="https://img.shields.io/static/v1?label=Hashnode&message=Enlighten with Amit&style=flat-square&logo=hashnode&color=blue" alt="LeetCode logo" /></a>
 
 -------
 ## 🛠️ Technologies and Tools I use
